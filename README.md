@@ -1,4 +1,4 @@
-# Ignite-Lab
+# Ignews
 
 ### Tecnologias utilizadas:
 <ul>
