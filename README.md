@@ -18,5 +18,7 @@
         margin: 10px 0 60px 0;
     "
 >
-    <video src="./github/app.mp4">
+    <video width="100%" autoplay>
+      <source src="./github/app.mp4" type="video/mp4">
+    </video>
 </div>
