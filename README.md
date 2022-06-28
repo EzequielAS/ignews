@@ -8,7 +8,7 @@
   <li>Jest</li>
 </ul>
 
-### Video Application
+### Home
 
 <div 
     style="
@@ -18,7 +18,44 @@
         margin: 10px 0 60px 0;
     "
 >
-    <video width="1280" height="960" autoplay>
-      <source src="./github/app.mp4" type="video/mp4">
-    </video>
+  <img src="./github/home.png" />
+</div>
+
+### Posts
+
+<div 
+    style="
+        display: flex; 
+        align-items: center; 
+        justify-content: center;
+        margin: 10px 0 60px 0;
+    "
+>
+  <img src="./github/posts.png" />
+</div>
+
+### Post Preview
+
+<div 
+    style="
+        display: flex; 
+        align-items: center; 
+        justify-content: center;
+        margin: 10px 0 60px 0;
+    "
+>
+  <img src="./github/postPreview.png" />
+</div>
+
+### Post
+
+<div 
+    style="
+        display: flex; 
+        align-items: center; 
+        justify-content: center;
+        margin: 10px 0 60px 0;
+    "
+>
+  <img src="./github/post.png" />
 </div>
