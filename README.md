@@ -1,6 +1,6 @@
 # Ignews
 
-### Tecnologias utilizadas:
+### Important Skills:
 <ul>
   <li>Next</li>
   <li>FaunaDB</li>
